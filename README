@@ -1,1 +1,21 @@
 Coding test for Fandor.com
+
+  
+ Please write Ruby code -- a class or so -- that models an elevator in a tall building.
+ It should have a button for each floor, and there should be up and/or down buttons as appropriate on each floor.
+ Calling code -- you might want to think of the calling code as messages to and from the real-world elevator, buttons, etc.
+ -- should be able to call the elevator and choose a floor, and the elevator should eventually visit that floor.
+ Don't worry about door buttons or other complications for now. Definitely don't worry about anything except moving the
+ elevator around in memory; this is a Ruby exercise, not a Rails exercise.
+ 
+ Write the code test-driven with rspec. (Test::Unit or MiniTest would be fine too. Don't use Cucumber; we love it, but
+ it's too bulky for this exercise.) Refactor it until it's clean enough to eat on. Put the results on github and send me
+ the URL. If you have any questions please ask. Those instructions are ideal, so do whatever you think is appropriate and
+ have time for. The point is for us to see how you test and code and refactor, not to test your knowledge of specific
+ technologies.
+ 
+ The exercise should take no more than an hour. If you think it will take much longer (aside from time taken to learn new
+ tools), you might think I'm asking for something that I'm not, so check with me to make sure you've understood the scope.
+ Also, it should be fun; if it isn't you should feel free to adjust the requirements until it is. Keep it simple, though,
+ since if it gets complicated it will be hard to work on when you visit.
+ 
